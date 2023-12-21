@@ -1,4 +1,13 @@
 ---
+name: NewBugReport
+about: this is bug report
+title: "[Bug]: "
+labels: bug
+assignees: ''
+
+---
+
+---
 
 name: NewBugReport
 description: File a bug report
